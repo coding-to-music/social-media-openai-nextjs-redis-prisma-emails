@@ -1,6 +1,6 @@
 # social-media-openai-nextjs-redis-prisma-emails
 
-# 🚀  🚀
+# 🚀 Schedule and generate social media posts with AI. Using NX, Nextjs, NestJS, OpenAI, Axios, Prisma, Redis, Resend (emails), Cloudflare, Stripe, Auth, Docker 🚀
 
 https://github.com/coding-to-music/social-media-openai-nextjs-redis-prisma-emails
 
