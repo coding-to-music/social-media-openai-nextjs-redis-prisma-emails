@@ -1,3 +1,30 @@
+# social-media-openai-nextjs-redis-prisma-emails
+
+# 🚀  🚀
+
+https://github.com/coding-to-music/social-media-openai-nextjs-redis-prisma-emails
+
+From / By https://github.com/gitroomhq/postiz-app
+
+https://postiz.com/
+
+## GitHub
+
+```java
+git init
+git add .
+git remote remove origin
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:coding-to-music/social-media-openai-nextjs-redis-prisma-emails.git
+git push -u origin main
+```
+
+## Environment variables:
+
+```java
+
+```
 <p align="center">
   <a href="https://affiliate.postiz.com">
     <img src="https://github.com/user-attachments/assets/af9f47b3-e20c-402b-bd11-02f39248d738" />
